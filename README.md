@@ -1,5 +1,3 @@
----
-
 # Peer-to-Peer File Sharing System
 
 This repository implements a peer-to-peer (P2P) file sharing system using socket programming in Python. It includes two components:
