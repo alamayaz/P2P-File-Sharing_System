@@ -1,5 +1,3 @@
-Based on the analysis of the provided Python scripts (`p2p_receiver.py` and `p2p_sender.py`), here is a suggested `README.md` for your GitHub repository:
-
 ---
 
 # Peer-to-Peer File Sharing System
